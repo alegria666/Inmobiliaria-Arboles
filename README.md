@@ -49,7 +49,7 @@ El Árbol Binario de Búsqueda (ABB) es utilizado para:
 
 ## Estructura del Proyecto
 ```
-INMOBILIARIA/
+Inmobiliaria-Arboles/
 ├── inmobiliaria.py                 # Archivo principal
 ├── ed/
 │   └── jerarquicas/
