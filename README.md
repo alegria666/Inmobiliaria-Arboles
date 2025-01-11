@@ -30,7 +30,6 @@ El Árbol Binario de Búsqueda (ABB) es utilizado para:
 1. Clona el repositorio o descarga el proyecto.
    ```bash
    git clone https://github.com/alegria666/Inmobiliaria-Arboles.git
-   cd INMOBILIARIA
    ```
 2. Instala las dependencias necesarias.
    ```bash
