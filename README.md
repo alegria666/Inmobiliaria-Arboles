@@ -67,7 +67,7 @@ INMOBILIARIA/
 ```
 
 ## Créditos
-- **Daniel Esteban Alegría Zamora** - Desarrollo, diseño e implementación de estructuras de datos..
+- **Daniel Esteban Alegría Zamora** - Desarrollo, diseño e implementación de estructuras de datos.
 
 ## Notas
 Este proyecto es una demostración académica y no está destinado para un uso en producción.
